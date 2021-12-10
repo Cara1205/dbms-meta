@@ -1,0 +1,4 @@
+id,string,True,True,
+name,string,False,True,
+major,string,False,False,
+age,int,False,False,0
